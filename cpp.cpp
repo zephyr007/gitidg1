@@ -1,1 +1,4 @@
-cout<<"it is live";
+
+cout<<"It is live";
+getch();
+
