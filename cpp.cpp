@@ -1,4 +1,1 @@
-
-cout<<"It is live";
-getch();
-
+cout<<"Namaste Duniya";
